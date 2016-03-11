@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Rev. Cheryl]]></title>
-        <description><![CDATA[Rev. Cheryl]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[creating a place for worshippers]]></title>
+        <description><![CDATA[creating a place for worshippers]]></description>
+        <link>https://thegrid.ai/rev-cheryl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 17:56:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 11 Mar 2016 18:06:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rev-cheryl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>What is Christian Worship?</p>]]></description>
-            <link>undefined58cadead-f362-4262-8f26-90ef72f95743/index.html</link>
+            <link>https://thegrid.ai/rev-cheryl/58cadead-f362-4262-8f26-90ef72f95743/index.html</link>
             <guid isPermaLink="false">58cadead-f362-4262-8f26-90ef72f95743</guid>
-            <pubDate>Fri, 04 Mar 2016 17:55:28 GMT</pubDate>
+            <pubDate>Fri, 11 Mar 2016 18:05:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
